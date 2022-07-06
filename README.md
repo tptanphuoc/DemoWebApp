@@ -1,5 +1,8 @@
 # DemoWebApp
 
+![alt text](https://github.com/tptanphuoc/DemoWebApp/blob/main/HomePageImage.png?raw=true)
+
+
 • Đây là demo đơn giản về web shop bán quần áo bằng Java. Gồm 3 role: 
 - Admin: Có chức năng thêm, xóa, sửa tài khoản của trang web
 - Seller: Bán hàng, có thể thêm, xóa, sửa sản phẩm
