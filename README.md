@@ -12,9 +12,8 @@
 
 • Chú ý: portNumber trong class DBConnect.java là 1500, khác với cổng mặc định là 1433. Có thể sẽ phải thay đổi số cổng trong class này hoặc đổi trong phần config của SQL Server.
 
-• Project được code và build trên Netbean IDE 8.2, phiên bản Java 1.8.0_45.
+• Project được code và build trên Netbean IDE 8.2, phiên bản Java 1.8.0_45. Được deploy trên Apache Tomcat 9.0.64 .
 
 • Các library đã được import trong project : sqljdbc4.2.0 (dùng để kết nối Java với SQL Server) và jst1.2 (dùng để load dữ liệu từ SQL lên các trang JSP).
 
-
-                                                                                            Created by Phước
+Created by Phước
